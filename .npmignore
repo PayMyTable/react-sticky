@@ -5,3 +5,5 @@ dist
 .npmignore
 .babelrc
 .travis.yml
+.github
+.idea
